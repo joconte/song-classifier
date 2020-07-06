@@ -8,6 +8,7 @@ Ce projet a été réalisé dans le cadre d'un cours sur le Deep Learning à l'E
 - Librosa
 - FastAI
 - Jupyter Notebook
+- Python3
 
 # Groupe de travail
 
@@ -30,6 +31,7 @@ Prérequis :
 - Librosa
 - FastAI
 - Jupyter Notebook
+- Python3
 
 Etapes :
 - Cloner le repository : `git clone https://github.com/joconte/song-classifier.git`
